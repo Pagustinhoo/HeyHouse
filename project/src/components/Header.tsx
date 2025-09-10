@@ -15,7 +15,7 @@ const Header: React.FC = () => {
     setIsMenuOpen(false);
   };
 
-  const isAdmin = user?.email === 'heliasandrei16@gmail.com';
+  const isAdmin = user?.email === 'heyhouseimoveis@gmail.com';
 
   return (
     <header className="bg-white shadow-lg sticky top-0 z-50">
