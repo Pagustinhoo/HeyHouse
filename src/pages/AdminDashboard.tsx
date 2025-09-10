@@ -1,12 +1,3 @@
-@@ .. @@
-   // Verificar se é o admin autorizado
--  const isAuthorizedAdmin = user?.email === 'heliasandrei16@gmail.com';
-+  const isAuthorizedAdmin = user?.email === 'heyhouseimoveis@gmail.com';
+{"code":"rate-limited","message":"You have hit the rate limit. Please upgrade to keep chatting.","providerLimitHit":false,"isRetryable":true
 
-@@ .. @@
-           <p className="text-gray-600">Esta área é exclusiva para administradores autorizados.</p>
--          <p className="text-sm text-gray-500 mt-2">Apenas heliasandrei16@gmail.com tem acesso.</p>
-+          <p className="text-sm text-gray-500 mt-2">Apenas heyhouseimoveis@gmail.com tem acesso.</p>
-         </div>
-       </div>
-     );
+export default isAuthorizedAdmin}
